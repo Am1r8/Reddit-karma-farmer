@@ -25,9 +25,8 @@ Then, you can run the bot by executing the following command:
 
 python main.py
 
-
-Created By AlPHA With ❤️
-
 ## Disclaimer
 
 This bot is provided as is and is not affiliated with Reddit. Use at your own risk.
+
+Created By AlPHA With ❤️
